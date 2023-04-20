@@ -1,0 +1,59 @@
+C:\Users\hodor\source\repos\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe.config
+C:\Users\hodor\source\repos\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe
+C:\Users\hodor\source\repos\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.pdb
+C:\Users\hodor\source\repos\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.AssemblyReference.cache
+C:\Users\hodor\source\repos\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Form1.resources
+C:\Users\hodor\source\repos\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Properties.Resources.resources
+C:\Users\hodor\source\repos\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.GenerateResource.cache
+C:\Users\hodor\source\repos\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.CoreCompileInputs.cache
+C:\Users\hodor\source\repos\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.exe
+C:\Users\hodor\source\repos\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.pdb
+C:\Users\roni\Desktop\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.AssemblyReference.cache
+C:\Users\roni\Desktop\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Form1.resources
+C:\Users\roni\Desktop\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Properties.Resources.resources
+C:\Users\roni\Desktop\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.GenerateResource.cache
+C:\Users\roni\Desktop\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.CoreCompileInputs.cache
+C:\Users\roni\Desktop\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.exe
+C:\Users\roni\Desktop\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.pdb
+C:\Users\roni\Desktop\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe.config
+C:\Users\roni\Desktop\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe
+C:\Users\roni\Desktop\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.pdb
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe.config
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.pdb
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Form1.resources
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Properties.Resources.resources
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.GenerateResource.cache
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.CoreCompileInputs.cache
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.exe
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.pdb
+C:\Users\roni\Desktop\C Sharp Project new (1)\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.AssemblyReference.cache
+C:\Users\roni\Desktop\C Sharp Project new (1)\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Form1.resources
+C:\Users\roni\Desktop\C Sharp Project new (1)\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Properties.Resources.resources
+C:\Users\roni\Desktop\C Sharp Project new (1)\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.GenerateResource.cache
+C:\Users\roni\Desktop\C Sharp Project new (1)\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.CoreCompileInputs.cache
+C:\Users\roni\Desktop\C Sharp Project new (1)\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.exe
+C:\Users\roni\Desktop\C Sharp Project new (1)\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.pdb
+C:\Users\roni\Desktop\C Sharp Project new (1)\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe.config
+C:\Users\roni\Desktop\C Sharp Project new (1)\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe
+C:\Users\roni\Desktop\C Sharp Project new (1)\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.pdb
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe.config
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.pdb
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.AssemblyReference.cache
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Form1.resources
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Properties.Resources.resources
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.GenerateResource.cache
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.CoreCompileInputs.cache
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.exe
+C:\Users\hodor\Desktop\roni - computers HIT\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.pdb
+C:\Users\roni\Desktop\C Sharp Project new 3\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe.config
+C:\Users\roni\Desktop\C Sharp Project new 3\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.exe
+C:\Users\roni\Desktop\C Sharp Project new 3\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\bin\Debug\C Sharp Project new.pdb
+C:\Users\roni\Desktop\C Sharp Project new 3\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.AssemblyReference.cache
+C:\Users\roni\Desktop\C Sharp Project new 3\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Form1.resources
+C:\Users\roni\Desktop\C Sharp Project new 3\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C_Sharp_Project_new.Properties.Resources.resources
+C:\Users\roni\Desktop\C Sharp Project new 3\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.GenerateResource.cache
+C:\Users\roni\Desktop\C Sharp Project new 3\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.csproj.CoreCompileInputs.cache
+C:\Users\roni\Desktop\C Sharp Project new 3\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.exe
+C:\Users\roni\Desktop\C Sharp Project new 3\C Sharp Project new 3\C Sharp Project new\C Sharp Project new\C Sharp Project new\obj\Debug\C Sharp Project new.pdb
